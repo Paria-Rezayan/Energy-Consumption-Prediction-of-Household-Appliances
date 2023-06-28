@@ -1,3 +1,4 @@
+**Linear Regression for Energy Consumption Prediction**
 
 The prediction of energy consumption has always been an important topic in the field of energy management. The aim of this project is to develop a Linear Regression model that can predict the energy use of house appliances. To achieve this, I will explore and preprocess the dataset, perform exploratory data analysis (EDA), scale the data using Standard Scaler, and finally implement a Linear Regression model both from scratch and using Sklearn.
 
